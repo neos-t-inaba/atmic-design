@@ -7,14 +7,14 @@
 
 
 5つのレベル 
-![](https://github.com/neos-t-inaba/atmic-design/_readme/img/compressed/atomic-design.img.stage.png)
+![](https://github.com/neos-t-inaba/atmic-design/blob/master/_readme/img/compressed/atomic-design.img.stage.png)
 
 
 ## 段階
 
 ###  Atoms 原子
 
-![](https://github.com/neos-t-inaba/atmic-design/_readme/img/compressed/atomic-design.img.atoms.png)
+![](https://github.com/neos-t-inaba/atmic-design/blob/master/_readme/img/compressed/atomic-design.img.atoms.png)
 
 基本的なビルディングブロックで、これ以上分解できないもの。
 
@@ -22,7 +22,7 @@
 
 ### Molecules 分子
 
-![](https://github.com/neos-t-inaba/atmic-design/_readme/img/compressed/atomic-design.img.molecules.png)
+![](https://github.com/neos-t-inaba/atmic-design/blob/master/_readme/img/compressed/atomic-design.img.molecules.png)
 
 原子を結合した、独自の特性を持った化合物の最小単位。  
 比較的単純だが意味をもつUI？
@@ -31,7 +31,7 @@
 
 ### Organisms 有機体
 
-![](https://github.com/neos-t-inaba/atmic-design/_readme/img/compressed/atomic-design.img.organisms.png)
+![](https://github.com/neos-t-inaba/atmic-design/blob/master/_readme/img/compressed/atomic-design.img.organisms.png)
 
 分子を組み合わせたもの。  
 より複雑で明瞭なUI？
@@ -40,7 +40,7 @@
 
 ### Templates テンプレート
 
-![](https://github.com/neos-t-inaba/atmic-design/_readme/img/compressed/atomic-design.img.templates.png)
+![](https://github.com/neos-t-inaba/atmic-design/blob/master/_readme/img/compressed/atomic-design.img.templates.png)
 
 有機体を組み合わせたワイヤーフレームとなるもの。構成が見えるもの。  
 コンテンツは入ってない状態。  
@@ -48,7 +48,7 @@
 
 ### Pages ページ
 
-![](https://github.com/neos-t-inaba/atmic-design/_readme/img/compressed/atomic-design.img.pages.png)
+![](https://github.com/neos-t-inaba/atmic-design/blob/master/_readme/img/compressed/atomic-design.img.pages.png)
 
 実際の写真やテキスト等のコンテンツが入った状態。
 
